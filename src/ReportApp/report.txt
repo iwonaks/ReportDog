@@ -1,0 +1,32 @@
+Raport. Data sporządzenia: 10.10.2022 11:18:52
+Nr psa: 1  Imię: Malwa  Nr chip: 125df Płeć psa: M  Wiek psa w latach: 3
+Czy pies posiada tytuł Champion of Work: T
+Punkty uzyskane w danej kategorii:
+Praca na otoku, ocena: 3 co daje: 30p.
+Współpraca z przewodnikiem, ocena: 2 co daje: 8p.
+Odłożenie psa luzem, ocena: 3 co daje: 15p.
+Odłożenie psa na uwięzi, ocena: 4 co daje: 12p.
+Zachowanie przy zwierzynie, ocena: 3 co daje: 18
+SUMA PUNKTÓW {result}
+
+Nr psa: 2  Imię: Jack  Nr chip: 145893 Płeć psa: F  Wiek psa w latach: 6
+Czy pies posiada tytuł Champion of Work: N
+Punkty uzyskane w danej kategorii:
+Praca na otoku, ocena: 4 co daje: 40p.
+Współpraca z przewodnikiem, ocena: 4 co daje: 16p.
+Odłożenie psa luzem, ocena: 0 co daje: 0p.
+Odłożenie psa na uwięzi, ocena: 1 co daje: 3p.
+Zachowanie przy zwierzynie, ocena: 4 co daje: 24
+SUMA PUNKTÓW {result}
+
+Nr psa: 3  Imię: Dron  Nr chip: M95856 Płeć psa: M  Wiek psa w latach: 4
+Czy pies posiada tytuł Champion of Work: N
+Punkty uzyskane w danej kategorii:
+Praca na otoku, ocena: 4 co daje: 40p.
+Współpraca z przewodnikiem, ocena: 4 co daje: 16p.
+Odłożenie psa luzem, ocena: 0 co daje: 0p.
+Odłożenie psa na uwięzi, ocena: 2 co daje: 6p.
+Zachowanie przy zwierzynie, ocena: 4 co daje: 24
+SUMA PUNKTÓW {result}
+
+-------------------------------------------------------------------------
